@@ -1,6 +1,8 @@
 # Mapa-covid
 HTML: https://camilaazb.github.io/Mapa-covid/Tarea4.html
 
+DATA: https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa/resource/690e57a6-a465-47d8-86fd
+
 ## Descripción 
 Este proyecto es una visualización interactiva desarrollada en HTML que muestra datos de COVID-19 a través de un mapa. Utiliza un conjunto de variables claves para analizar la situación de la pandemia en diferentes regiones.
 
